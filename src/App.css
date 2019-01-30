@@ -1,0 +1,13 @@
+.App-header {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 1px;
+  width: 100%;
+}
+
+@media (max-width: 769px) {
+  .App-header {
+    height: 50px;
+  }
+}
