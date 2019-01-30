@@ -1,14 +1,14 @@
 {
-  "main.css": "/customQuiz/static/css/main.f8344201.chunk.css",
-  "main.js": "/customQuiz/static/js/main.a4fca2f2.chunk.js",
-  "main.js.map": "/customQuiz/static/js/main.a4fca2f2.chunk.js.map",
-  "static/js/1.6f27e260.chunk.js": "/customQuiz/static/js/1.6f27e260.chunk.js",
-  "static/js/1.6f27e260.chunk.js.map": "/customQuiz/static/js/1.6f27e260.chunk.js.map",
-  "runtime~main.js": "/customQuiz/static/js/runtime~main.89dfd8d4.js",
-  "runtime~main.js.map": "/customQuiz/static/js/runtime~main.89dfd8d4.js.map",
-  "static/media/index.css": "/customQuiz/static/media/icon-check.4cffa739.svg",
-  "static/css/main.f8344201.chunk.css.map": "/customQuiz/static/css/main.f8344201.chunk.css.map",
-  "index.html": "/customQuiz/index.html",
-  "precache-manifest.b068b469d0ca05f495b50db4071dba59.js": "/customQuiz/precache-manifest.b068b469d0ca05f495b50db4071dba59.js",
-  "service-worker.js": "/customQuiz/service-worker.js"
+  "main.css": "www.chemie.gq/static/css/main.e02b5082.chunk.css",
+  "main.js": "www.chemie.gq/static/js/main.4ea459bd.chunk.js",
+  "main.js.map": "www.chemie.gq/static/js/main.4ea459bd.chunk.js.map",
+  "static/js/1.6f27e260.chunk.js": "www.chemie.gq/static/js/1.6f27e260.chunk.js",
+  "static/js/1.6f27e260.chunk.js.map": "www.chemie.gq/static/js/1.6f27e260.chunk.js.map",
+  "runtime~main.js": "www.chemie.gq/static/js/runtime~main.1d6779f9.js",
+  "runtime~main.js.map": "www.chemie.gq/static/js/runtime~main.1d6779f9.js.map",
+  "static/media/index.css": "www.chemie.gq/static/media/icon-check.4cffa739.svg",
+  "static/css/main.e02b5082.chunk.css.map": "www.chemie.gq/static/css/main.e02b5082.chunk.css.map",
+  "index.html": "www.chemie.gq/index.html",
+  "precache-manifest.7e56198225898ca1cdb158b42cef12d0.js": "www.chemie.gq/precache-manifest.7e56198225898ca1cdb158b42cef12d0.js",
+  "service-worker.js": "www.chemie.gq/service-worker.js"
 }
